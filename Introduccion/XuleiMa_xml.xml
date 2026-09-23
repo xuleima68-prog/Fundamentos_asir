@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<user>
+    <persona>
+        <nombre>Ana</nombre>
+        <edad>28</edad>
+    </persona>
+    <ubicacion>
+        <domicilio>Domicilio: Paseo de la Castellana 200</domicilio>
+        <locaclidad>Localidad: Madrid</locaclidad>
+    </ubicacion>
+</user>
